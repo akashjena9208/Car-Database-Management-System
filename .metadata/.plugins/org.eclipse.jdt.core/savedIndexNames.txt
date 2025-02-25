@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+D:\2025\Traill\.metadata\.plugins\org.eclipse.jdt.core
+1446272269.index
+1865797976.index
+1977532597.index
+2418608280.index
+1538821733.index
+1016839678.index
+3959137331.index
+2660072425.index
+4209528427.index
+2461289570.index
